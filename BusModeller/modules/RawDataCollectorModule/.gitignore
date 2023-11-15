@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!__init__.py
+!RawDataCollector.py
+!RawDataCollectorMenu.py
