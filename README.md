@@ -1,10 +1,10 @@
 Program setup:
 	You need Python 2.7+ to use this program
 
-	Generate an API key for collecting bus data by creating an account on https://data.bus-data.dft.gov.uk/account/login/ then finding your key in 'Account Settings'
+Generate an API key for collecting bus data by creating an account on https://data.bus-data.dft.gov.uk/account/login/ then finding your key in 'Account Settings'
 	Navigate to /configs/defaults.ini then enter your API key in the 'apikey' row
 
-	Recommended to run 'python.exe setup.py', which will set up a virtual environment called 'venv' in the root folder 'Application' and install the requirements to this virtual environment.
+Recommended to run 'python.exe setup.py', which will set up a virtual environment called 'venv' in the root folder 'Application' and install the requirements to this virtual environment.
 	You could also run 'python.exe -m pip install -r requirements.txt', but you will have to manually uninstall the dependencies once you are done with them
 	NOTE: The requirements take up ~500MB of storage
 
